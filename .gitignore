@@ -1,0 +1,17 @@
+# File binari ed eseguibili
+*.exe
+*.o
+*.gch
+
+# File di risorsa compilati
+*.res
+
+# File temporanei o di backup
+*~
+*.log
+
+# Configurazioni di IDE specifici (opzionale, ma utile)
+.vscode/
+.idea/
+bin/
+obj/
